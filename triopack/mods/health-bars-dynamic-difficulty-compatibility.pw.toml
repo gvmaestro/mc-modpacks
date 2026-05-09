@@ -1,0 +1,13 @@
+name = "Health Bars Dynamic Difficulty Compatibility"
+filename = "healthbars-dd-compat-0.3.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc795d3927c772809a96c49278da8c357c4dc088"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7508631
+project-id = 1440180

@@ -1,0 +1,13 @@
+name = "Icon Leading Tooltip"
+filename = "icon-leading-tooltip-neoforge-1.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fkf6XJDM/versions/30qfZ9Du/icon-leading-tooltip-neoforge-1.0.7.jar"
+hash-format = "sha512"
+hash = "ad324757e01f63a25cc5a1dbc83475fe9b45107472c50346ff66a30d218b8f69c32a8dbe612a84f2f4c67db59e85f2bca7421e8009f2bfb39160d896cd0066bd"
+
+[update]
+[update.modrinth]
+mod-id = "Fkf6XJDM"
+version = "30qfZ9Du"

@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Antique Atlas 4 Compat"
+filename = "DnT Antique Atlas 4 Compat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVnjPrua/versions/XNoPh6oZ/DnT%20Antique%20Atlas%204%20Compat.zip"
+hash-format = "sha512"
+hash = "3205ec3e5aff3bcd17c4e4a77a33b106a707b29c898bb4dff49c84bcaf9c92953768760a100bf8922a1882895e1e3aff84d8a9b6dbe0708b5087f66f67d598ec"
+
+[update]
+[update.modrinth]
+mod-id = "BVnjPrua"
+version = "XNoPh6oZ"
