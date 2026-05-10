@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "3a3739d2099783ff3d58a71ffb7bf61e5ed34a001c459b3eff1e2781476bc1fd"
+hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/witherswrath.pw.toml"
-hash = "55936f4761cec6bbb3755efa65bb5c04e2764667c46dabd7da11718c214122fe"
+hash = "51a2ea1e056459e62108dca9e6cc8857c7a1532018bafbcbe2b6394e553ab665"
 metafile = true
 
 [[files]]

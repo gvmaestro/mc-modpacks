@@ -1,13 +1,13 @@
 name = "Wither's Wrath"
-filename = "[1.21-1.21.1]witherswrath-1.15.2.jar"
+filename = "[1.21-1.21.1]witherswrath-1.16.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qqIrLnDt/versions/RPpaZacd/%5B1.21-1.21.1%5Dwitherswrath-1.15.2.jar"
+url = "https://cdn.modrinth.com/data/qqIrLnDt/versions/nbpP7HX3/%5B1.21-1.21.1%5Dwitherswrath-1.16.jar"
 hash-format = "sha512"
-hash = "95aa9e3939faceff26dc1a694d23c688da0849ad0f19a7a55f42b17ec974eabed3008071b063f69714be6f1611ca0b57be3c07a961d13a84b66f5af5c0413426"
+hash = "548d2b7e1a02e85352bef010c7bcf6e77db9513ab49a425bf854de12e2c476dbaf69a9ba7576be35d9fc4be5455e50cd52fa246307437cf1e9048da7db48ba5d"
 
 [update]
 [update.modrinth]
 mod-id = "qqIrLnDt"
-version = "RPpaZacd"
+version = "nbpP7HX3"
