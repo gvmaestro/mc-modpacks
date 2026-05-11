@@ -531,11 +531,6 @@ hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
-file = "mods/punchy-fpa.pw.toml"
-hash = "f74b4a3e1daa07ba04c11a68fecab904b7e1575d45540212aa864ba8ab5c02f0"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
@@ -858,11 +853,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-flowers-and-plants.pw.toml"
 hash = "94141db698374070dbc979de6679471e46d6c62cbb0587be26b9bd7be82b310b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/punchy!-compatibility.pw.toml"
-hash = "dd61336de1243db01c7a004101dda9f3a0e37cbcccce1e236b736b4b9cfb035f"
 metafile = true
 
 [[files]]
