@@ -1,13 +1,13 @@
 name = "Countered's Terrain Slabs"
-filename = "terrain_slabs-neoforge-3.0.3.jar"
+filename = "terrain_slabs-neoforge-3.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SJu6sklj/versions/57sRUFyJ/terrain_slabs-neoforge-3.0.3.jar"
+url = "https://cdn.modrinth.com/data/SJu6sklj/versions/3tiRAKqt/terrain_slabs-neoforge-3.0.5.jar"
 hash-format = "sha512"
-hash = "4c8bfc3a5a1866ddc5608f389431ef865cb6c716dbb4f02ed82735f632986cd1c6578ef6d2d4a232ebd4a141380e65764184404aed954a95f0f7f9e3bda2504a"
+hash = "b4bdc69f4e5f8e61588943e60a0d0b55ac55fd31f94a98640828383850f7247ae4065bc635056650d7087a8df7a4f54a9f4f5e2607258d7071c7db717a591374"
 
 [update]
 [update.modrinth]
 mod-id = "SJu6sklj"
-version = "57sRUFyJ"
+version = "3tiRAKqt"
