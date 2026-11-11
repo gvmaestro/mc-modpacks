@@ -1,0 +1,13 @@
+name = "Immersive Damage Indicators"
+filename = "immersivedamageindicators-neoforge-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tTKSJOdG/versions/pGTwkb3r/immersivedamageindicators-neoforge-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "333b395e77176167fe900c17bad4862b0ab7badc89c22e3022fe073a2c41ca9e91be61724cbf8c483366daf69dfc4b6cc1fe7303e33f97ebf62483da2861bf00"
+
+[update]
+[update.modrinth]
+mod-id = "tTKSJOdG"
+version = "pGTwkb3r"

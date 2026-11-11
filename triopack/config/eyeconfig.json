@@ -1,0 +1,46 @@
+{
+  "_help": [
+    "Each key inside 'eyes' is an item id. Rename '_endrem:old_eye' to 'endrem:old_eye' to enable the example.",
+    "remove_defaults: true strips the item from EVERY loot table and mob drop, so only the sources below give it.",
+    "remove_from: strip it only from these loot tables, structures (chests inside them) or mobs.",
+    "loot_tables: add it to these loot tables (chests, mobs, anything). Find ids with /eyeconfig tables <filter>.",
+    "structures: add it to every chest opened inside these structures. Stand in one and run /eyeconfig here.",
+    "mobs: add it to the drops of these entities (works for modded bosses without a loot table).",
+    "Entries are an id string (100%) or { id, chance (0-1 or 0-100), count (n or [min,max]), require_player }.",
+    "Ids starting with '#' are tags. Apply changes with /eyeconfig reload, test chests with /eyeconfig simulate.",
+    "debug: true logs every item the mod adds, handy to check your rules in game."
+  ],
+  "debug": false,
+  "eyes": {
+    "endrem:cold_eye": {
+      "remove_defaults": true,
+      "loot_tables": [
+        { "id": "aquamirae:chests/frozen_chest", "chance": 1.0 }
+      ]
+    },
+    "endrem:black_eye": {
+      "remove_defaults": true,
+      "loot_tables": [
+        { "id": "minecraft:chests/ancient_city", "chance": 0.05 } 
+      ],
+      "mobs": [
+        { "id": "minecraft:warden", "chance": 1.0, "require_player": true }
+      ]
+    },
+    "endrem:corrupted_eye": {
+      "remove_defaults": true,
+      "mobs": [
+        { "id": "graveyard:lich", "chance": 1.0, "require_player": true }
+      ]
+    },
+    "endrem:magical_eye": {
+      "remove_defaults": true,
+      "loot_tables": [
+        { "id": "minecraft:chests/illager_mansion/evoker_chest", "chance": 1.0 }
+      ],
+      "mobs": [
+        { "id": "illagerinvasion:invoker", "chance": 1.0, "require_player": true }
+      ]
+    }
+  }
+}

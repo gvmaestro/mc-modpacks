@@ -1,0 +1,13 @@
+name = "Enchant Display: Roman numerals"
+filename = "Enchant Display v.1.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sDjhAz4E/versions/ftPjPEXZ/Enchant%20Display%20v.1.8.zip"
+hash-format = "sha512"
+hash = "da2b9c710bf82d20c4cd98577b738678db64cf339ecb50c76e433166a3f6de30fdf3245928fafc15efe0a07c47763d2872722fcd433231b512041cfe42d12e9f"
+
+[update]
+[update.modrinth]
+mod-id = "sDjhAz4E"
+version = "ftPjPEXZ"

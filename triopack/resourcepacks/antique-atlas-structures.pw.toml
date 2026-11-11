@@ -1,0 +1,13 @@
+name = "Antique Atlas 4 Structures"
+filename = "AA_structures-v1.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/elNCy9XR/versions/E6ZdGUP1/AA_structures-v1.1.1.zip"
+hash-format = "sha512"
+hash = "7a6f082867b4e52c067547c2b270a62be7262b04edbcdabe1ebd9d77d5203d9239e5ec31edc623802cfc727a3b5f04f34bef214e895aa5198d029bfbe08c3650"
+
+[update]
+[update.modrinth]
+mod-id = "elNCy9XR"
+version = "E6ZdGUP1"

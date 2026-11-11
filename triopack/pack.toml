@@ -1,0 +1,13 @@
+name = "triopack"
+author = "Christian Murray"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b39e3f8fc8b941f1575ddaeb6dacfc00f54ae83504767f1506e65ad55b482cc2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

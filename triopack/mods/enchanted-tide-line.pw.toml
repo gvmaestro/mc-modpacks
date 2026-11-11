@@ -1,0 +1,13 @@
+name = "Enchanted Tide 2 Line (A Enchanted Fishing Line Add-on)"
+filename = "enchanted_tide_line-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2816596748c7a6c263b58b013c02cf721244885c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8671766
+project-id = 1653905

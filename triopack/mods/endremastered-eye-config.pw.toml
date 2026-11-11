@@ -1,0 +1,13 @@
+name = "EndRemastered Eye Config"
+filename = "EndRemasteredEyeConfig-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97d0e24fb7b5ecb6a3de6899026f8c537cbed0ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9233944
+project-id = 1751222
